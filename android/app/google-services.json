@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214857605770",
+    "project_id": "cubitproject-cd9de",
+    "storage_bucket": "cubitproject-cd9de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214857605770:android:f63a20af4ac4a045514373",
+        "android_client_info": {
+          "package_name": "com.fluttercubittask.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt0tnFbLxCEZdf3f8tq4aLQXaRSiLBcQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
